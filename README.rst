@@ -1,5 +1,4 @@
 Simple GeoPal Python Client.
-============================
 
 Simple GeoPal python client allows to test GeoPal api. Script allows you to:
 1) Create a job
